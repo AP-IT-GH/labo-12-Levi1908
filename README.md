@@ -43,7 +43,7 @@ Maak een variabele aan met daarin de tekst "Hello world!".
 Gebruik een `console.log`-statement om de inhoud van de variabele uit te lezen in de console van de browser.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-hello-world.avif)
+![voorbeeldinteractie](./oefening%201/voorbeeldinteractie-hello-world.avif)
 
 ## oefening 2: teksten uitlezen
 
@@ -63,7 +63,7 @@ Gebruik vier `console.log`-statements om de informatie van de programmeur te lat
 Tip: Gebruik string-manipulatie om de voorvoegsels (de woorden naam, leeftijd, e-mail en klasgroep) voor de variabele te plaatsen.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-persoonsgegevens.avif)
+![voorbeeldinteractie](./oefening%202/voorbeeldinteractie-persoonsgegevens.avif)
 
 ## oefening 3: getallen uitlezen
 
@@ -84,7 +84,7 @@ Lees enkel het resulaat uit met 1 `console.log`-statement.
 
 ### voorbeeldinteractie
 
-![voorbeeldinteractie](./voorbeeldinteractie-verjaardag.avif)
+![voorbeeldinteractie](./oefening%203/voorbeeldinteractie-verjaardag.avif)
 
 ## oefening 4: BMI berekenen
 
@@ -105,7 +105,7 @@ Maak een variabele `myWeight` en `myLength` waar je het gewicht in kg en de leng
 Je kan een getal afronden door [Number.toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed) te gebruiken (bv. result.toFixed(2)).
 
 ### voorbeeldinteractie
-[voorbeeldinteractie](./voorbeeldinteractie-bmi.avif)
+![voorbeeldinteractie](./oefening%204/voorbeeldinteractie-bmi.avif)
 
 ## oefening 5: bmi-namen
 
@@ -125,7 +125,7 @@ Pas de oefening over BMI aan zodat er een gewicht en een lengte variabele bestaa
 Toon de naam van de persoon met zijn bijbehorende BMI op het scherm.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-bmi-2-personen.avif)
+![voorbeeldinteractie](./oefening%205/voorbeeldinteractie-bmi-2-personen.avif)
 
 
 ## oefening 6: bmi-namen uitbreiding
@@ -143,7 +143,7 @@ Kopieer jouw oplossing van de vorige oefening.
 Zorg ervoor dat de BMI deze keer afgerond is door `Number.toFixed()` te gebruiken.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-bmi-afgerond.avif)
+![voorbeeldinteractie](./oefening%206/voorbeeldinteractie-bmi-afgerond.avif)
 
 ## oefening 7: interest
 
@@ -169,7 +169,7 @@ Rond het eindbedrag af naar een geheel getal.
 **Hint**: eindsaldo = startsaldo \* ( 1 + rente)^looptijd
 
 ### voorbeeldinteractie
-![voorbeeldinteractie rentevoet](./voorbeeldinteractie-rentevoet.avif)
+![voorbeeldinteractie rentevoet](./oefening%207/voorbeeldinteractie-rentevoet.avif)
 
 ## oefening 8: uren
 
@@ -188,7 +188,7 @@ Je programma toont dan hoe laat het zal zijn als je de som maakt.
 Let op: de klok telt maar 24 uur. Wat doe je als je hierboven gaat?
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-uren.avif)
+![voorbeeldinteractie](./oefening%208/voorbeeldinteractie-uren.avif)
 
 ## oefening 9: wisselgeld
 
@@ -214,7 +214,7 @@ Bereken het wisselgeld en plaats het in een 3de constante `change`.
 Print deze waarden af gebruikmakende van stringconcatenatie of stringinterpolatie.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-wisselgeld.avif)
+![voorbeeldinteractie](./oefening%209/voorbeeldinteractie-wisselgeld.avif)
 
 ## oefening 10: lotto
 
@@ -236,7 +236,7 @@ Haal alle lottonummers uit bovenstaande tekst en zet ze in de varabele `lottoNum
 Vervang de komma's door het pipe-symbool | en zet deze output in de variabele `formattedLottoNumbers`. Log vervolgens deze variabele. Je mag veronderstellen dat de cijfers genoteerd zijn zoals in het voorbeeld (met leidende `0` indien kleiner dan 10).
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-lotto.avif)
+![voorbeeldinteractie](./oefening%2010/voorbeeldinteractie-lotto.avif)
 
 ## oefening 11: name-from-mail
 
@@ -254,7 +254,7 @@ Het e-mailadres kan je in een variabele `email` plaatsen.
 We veronderstellen dat de variabele een juist e-mailadres bevat. Het e-mailadres zal zich altijd in het ap.be domein bevinden.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-naam-uit-mail.avif)
+![voorbeeldinteractie](./oefening%2011/voorbeeldinteractie-naam-uit-mail.avif)
 
 ## oefening 12: short-name
 
@@ -276,7 +276,7 @@ Let er op dat de variabelen ook zonder hoofdletters kunnen ingegeven worden.
 Je kan deze string opbouwen aan de hand van stringinterpolatie.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-korte-naam.avif)
+![voorbeeldinteractie](./oefening%2012/voorbeeldinteractie-korte-naam.avif)
 
 ## oefening 13: text-box
 
@@ -298,4 +298,4 @@ Het stuk tekst moet altijd in het tekstvak passen. Je kan de lengte opvragen van
 Zorg ervoor dat je maar 1 console.log statement gebruikt. Je zal dus moeten gebruik maken van newlines.
 
 ### voorbeeldinteractie
-![voorbeeldinteractie](./voorbeeldinteractie-text-box.avif)
+![voorbeeldinteractie](./oefening%2013/voorbeeldinteractie-text-box.avif)
